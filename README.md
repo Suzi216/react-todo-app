@@ -1,5 +1,5 @@
 # TO DO LIST
-> TO DO App is a website that record all the task of the day. The user can delete, remove or edit the tasks.
+> TO DO App is a website that record all the task of the day. The user can delete, remove or edit the tasks. This project follows the tutorial: https://ibaslogic.com/react-tutorial-for-beginners/
 
 
 ## Built With
