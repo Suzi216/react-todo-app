@@ -47,7 +47,7 @@ Give a ⭐️ if you like this project!
 
 ## Contribution
 
-Contributions and issues [click](https://github.com/Suzi216/math-magicians/issues) are most welcome !
+Contributions and issues [click](https://github.com/Suzi216/react-todo-apps/issues) are most welcome !
 
 ## Acknowledgments
 
