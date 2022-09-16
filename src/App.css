@@ -66,3 +66,17 @@ body {
   color: orangered;
   text-decoration: underline;
 }
+
+.navBar{
+  color: red;
+  display: flex;
+  flex-direction: row;
+  grid-gap: 4%;
+  list-style: none;
+  font-size: 30px;
+}
+.about-container{
+  position: absolute;
+  left: 40%;
+  top: 50%;
+}
